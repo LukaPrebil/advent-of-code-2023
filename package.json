@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "AOC23 Solutions",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Luka Prebil Grintal",
+  "license": "ISC"
+}
